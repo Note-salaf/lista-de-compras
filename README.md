@@ -2,7 +2,7 @@
 
 Projeto simples de **Lista de Compras** desenvolvido com **HTML, CSS e JavaScript puro**, com foco em praticar os conceitos de **CRUD**, manipulação do **DOM**, uso de **localStorage** e boas práticas básicas de **UI/UX**.
 
-🔗 **Demo:** https://note-salaf.github.io/to-do-list-plus/
+🔗 **Demo:** https://note-salaf.github.io/lista-de-compras/
 
 ---
 
@@ -95,3 +95,4 @@ Este projeto foi desenvolvido com foco em aprendizado, reforçando conceitos imp
 
 Desenvolvido por **Note Sala**  
 Projeto com fins educacionais.
+
